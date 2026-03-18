@@ -109,7 +109,7 @@ However, detection of hot and cold spots in offshore regions was inconsistent, l
 ## ArcGIS StoryMap / Project Link
 
 View the full interactive project here:  
-👉 https://arcg.is/4jXmP1
+https://arcg.is/4jXmP1
 
 ---
 
