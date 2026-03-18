@@ -88,6 +88,34 @@ However, detection of hot and cold spots in offshore regions was inconsistent, l
 
 ---
 
+## Visual Highlights
+
+### Sea Surface Temperature Trends
+
+Linear regression and Mann-Kendall analyses indicate minimal detectable trends in wintertime sea surface temperature.
+
+![Linear Regression Trend](LinReg.png)
+
+![Mann-Kendall Trend](MannKendall.png)
+
+---
+
+### Spatial Sea Surface Temperature Example
+
+Example of sea surface temperature distribution around San Andrés (2017). Warmer temperatures are concentrated nearshore, with visible gaps due to cloud cover and land masking.
+
+![Sea Surface Temperature Map](SST2017.png)
+
+---
+
+### Hotspot Analysis
+
+Hotspot analysis results showing spatial clustering of elevated temperatures along coastal regions.
+
+![Hotspot 2022](HotSpot22.png)
+
+![Hotspot 2023](HotSpot23.png)
+
 ## Limitations
 
 - Presence of artifacts in Landsat 8 thermal data  
